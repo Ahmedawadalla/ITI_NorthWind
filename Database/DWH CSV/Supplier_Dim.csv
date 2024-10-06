@@ -1,0 +1,30 @@
+Supplier_SK,SupplierID,CompanyName,ContactTitle,Address,City,Region,PostalCode,Country,HomePage,Fax,Phone,ContactName
+1,1,Exotic Liquids,Purchasing Manager,49 Gilbert St.,London,,EC1 4SD,UK,,,(171) 555-2222,Charlotte Cooper
+2,2,New Orleans Cajun Delights,Order Administrator,P.O. Box 78934,New Orleans,LA,70117,USA,#CAJUN.HTM#,,(100) 555-4822,Shelley Burke
+3,3,Grandma Kelly's Homestead,Sales Representative,707 Oxford Rd.,Ann Arbor,MI,48104,USA,,(313) 555-3349,(313) 555-5735,Regina Murphy
+4,4,Tokyo Traders,Marketing Manager,9-8 Sekimai Musashino-shi,Tokyo,,100,Japan,,,(03) 3555-5011,Yoshi Nagase
+5,5,Cooperativa de Quesos 'Las Cabras',Export Administrator,Calle del Rosal 4,Oviedo,Asturias,33007,Spain,,,(98) 598 76 54,Antonio del Valle Saavedra
+6,6,Mayumi's,Marketing Representative,92 Setsuko Chuo-ku,Osaka,,545,Japan,Mayumi's (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#,,(06) 431-7877,Mayumi Ohno
+7,7,"Pavlova, Ltd.",Marketing Manager,74 Rose St. Moonie Ponds,Melbourne,Victoria,3058,Australia,,(03) 444-6588,(03) 444-2343,Ian Devling
+8,8,"Specialty Biscuits, Ltd.",Sales Representative,29 King's Way,Manchester,,M14 GSD,UK,,,(161) 555-4448,Peter Wilson
+9,9,PB Knäckebröd AB,Sales Agent,Kaloadagatan 13,Göteborg,,S-345 67,Sweden,,031-987 65 91,031-987 65 43,Lars Peterson
+10,10,Refrescos Americanas LTDA,Marketing Manager,Av. das Americanas 12.890,Sao Paulo,,5442,Brazil,,,(11) 555 4640,Carlos Diaz
+11,11,Heli Süßwaren GmbH & Co. KG,Sales Manager,Tiergartenstraße 5,Berlin,,10785,Germany,,,(010) 9984510,Petra Winkler
+12,12,Plutzer Lebensmittelgroßmärkte AG,International Marketing Mgr.,Bogenallee 51,Frankfurt,,60439,Germany,Plutzer (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/plutzer.htm#,,(069) 992755,Martin Bein
+13,13,Nord-Ost-Fisch Handelsgesellschaft mbH,Coordinator Foreign Markets,Frahmredder 112a,Cuxhaven,,27478,Germany,,(04721) 8714,(04721) 8713,Sven Petersen
+14,14,Formaggi Fortini s.r.l.,Sales Representative,"Viale Dante, 75",Ravenna,,48100,Italy,#FORMAGGI.HTM#,(0544) 60603,(0544) 60323,Elio Rossi
+15,15,Norske Meierier,Marketing Manager,Hatlevegen 5,Sandvika,,1320,Norway,,,(0)2-953010,Beate Vileid
+16,16,Bigfoot Breweries,Regional Account Rep.,3400 - 8th Avenue Suite 210,Bend,OR,97101,USA,,,(503) 555-9931,Cheryl Saylor
+17,17,Svensk Sjöföda AB,Sales Representative,Brovallavägen 231,Stockholm,,S-123 45,Sweden,,,08-123 45 67,Michael Björn
+18,18,Aux joyeux ecclésiastiques,Sales Manager,"203, Rue des Francs-Bourgeois",Paris,,75004,France,,(1) 03.83.00.62,(1) 03.83.00.68,Guylène Nodier
+19,19,New England Seafood Cannery,Wholesale Account Agent,Order Processing Dept. 2100 Paul Revere Blvd.,Boston,MA,02134,USA,,(617) 555-3389,(617) 555-3267,Robb Merchant
+20,20,Leka Trading,Owner,"471 Serangoon Loop, Suite #402",Singapore,,0512,Singapore,,,555-8787,Chandra Leka
+21,21,Lyngbysild,Sales Manager,Lyngbysild Fiskebakken 10,Lyngby,,2800,Denmark,,43844115,43844108,Niels Petersen
+22,22,Zaanse Snoepfabriek,Accounting Manager,Verkoop Rijnweg 22,Zaandam,,9999 ZZ,Netherlands,,(12345) 1210,(12345) 1212,Dirk Luchte
+23,23,Karkki Oy,Product Manager,Valtakatu 12,Lappeenranta,,53120,Finland,,,(953) 10956,Anne Heikkonen
+24,24,"G'day, Mate",Sales Representative,170 Prince Edward Parade Hunter's Hill,Sydney,NSW,2042,Australia,G'day Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#,(02) 555-4873,(02) 555-5914,Wendy Mackenzie
+25,25,Ma Maison,Marketing Manager,2960 Rue St. Laurent,Montréal,Québec,H1J 1C3,Canada,,,(514) 555-9022,Jean-Guy Lauzon
+26,26,Pasta Buttini s.r.l.,Order Administrator,"Via dei Gelsomini, 153",Salerno,,84100,Italy,,(089) 6547667,(089) 6547665,Giovanni Giudici
+27,27,Escargots Nouveaux,Sales Manager,"22, rue H. Voiron",Montceau,,71300,France,,,85.57.00.07,Marie Delamare
+28,28,Gai pâturage,Sales Representative,"Bat. B 3, rue des Alpes",Annecy,,74000,France,,38.76.98.58,38.76.98.06,Eliane Noz
+29,29,Forêts d'érables,Accounting Manager,148 rue Chasseur,Ste-Hyacinthe,Québec,J2S 7S8,Canada,,(514) 555-2921,(514) 555-2955,Chantal Goulet
